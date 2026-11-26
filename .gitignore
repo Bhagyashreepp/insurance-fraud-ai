@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/
+data/insurance.db
+data/processed/
+artifacts/
+.env
+*.egg-info/
