@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This local MVP assesses whether insurance-claim evidence appears trustworthy enough for an advance-payment workflow. It identifies suspicious submission patterns—repeated agent writing habits, semantic narrative reuse, unusual agent behavior, inconsistent evidence, and policy/document inconsistencies.
+This local MVP assesses whether insurance-claim evidence appears trustworthy enough for an advance-payment workflow. It identifies suspicious submission patterns repeated agent writing habits, semantic narrative reuse, unusual agent behavior, inconsistent evidence, and policy/document inconsistencies.
 
 It is not an AI-authorship detector. AI-generated text is not itself fraud. Outputs are risk signals, never confirmed fraud findings, legal conclusions, coverage decisions, or payment authorizations.
 
